@@ -5,7 +5,7 @@
 
 Este encriptador de texto convierte mensajes en texto cifrado. Es ideal para proteger mensajes sensibles y aprender sobre conceptos básicos de criptografía. El proyecto permite tanto la encriptación como la desencriptación de texto.
 
-## 😎 Características:
+## 😎 Características
 
 - `Característica 1`: Encriptación y desencriptación de textos.
 - `Característica 2`: Fácil de usar desde la línea de comandos
@@ -17,7 +17,7 @@ Este encriptador de texto convierte mensajes en texto cifrado. Es ideal para pro
 
 ⚒️Abre y ejecuta el proyecto: tan sólo ingresa a: http://127.0.0.1:5500/index.html y ¡empieza a utilizarlo!
 
-## ❤️ Autora:
+## ❤️ Autora
 
 |[<img src="https://avatars.githubusercontent.com/u/178668803?s=96&v=4" width=100><br><sub>Myshell Henriquez</sub>](https://github.com/Myshellhg)
 | :---: | 
