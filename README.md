@@ -9,21 +9,20 @@ Este encriptador de texto convierte mensajes en texto cifrado. Es ideal para pro
 
 - `Característica 1`: Encriptación y desencriptación de textos.
 - `Característica 2`: Fácil de usar desde la línea de comandos
-- `Característica 3`: Boton de copiar para que tomes apunte de tu texto encriptado o desencriptado.
+- `Característica 3`: Boton de copiar para que tomes apuntes de tu texto encriptado o desencriptado.
 
 ## 🧐 Acceso al proyecto
 
-📁Para descargar o acceder al proyecto debes:
+📁Para descargar o acceder al proyecto debes: dar click 🖱️en el boton <>Code y ¡descargalo como ZIP!
 
-⚒️Abre y ejecuta el proyecto:
+⚒️Abre y ejecuta el proyecto: tan sólo ingresa a: http://127.0.0.1:5500/index.html y ¡empieza a utilizarlo!
 
 ## ❤️ Autora:
-|[<img src ="https://github.com/user-attachments/assets/1dc0e724-4671-4cbf-9601-5d2fe6764e9e) v=4" width=115><br><sub>Myshell Henriquez</sub>](https://github.com/myshellhg) |
+
+|[<img src="https://avatars.githubusercontent.com/u/178668803?s=96&v=4" width=100><br><sub>Myshell Henriquez</sub>](https://github.com/Myshellhg)
 | :---: | 
 
 
 
   
- 
-
-- 
+  
