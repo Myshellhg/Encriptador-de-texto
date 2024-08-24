@@ -15,7 +15,7 @@ Este encriptador de texto convierte mensajes en texto cifrado. Es ideal para pro
 
 📁Para descargar o acceder al proyecto debes: dar click 🖱️en el boton <>Code y ¡descargalo como ZIP!
 
-⚒️Abre y ejecuta el proyecto: tan sólo ingresa a: http://127.0.0.1:5500/index.html y ¡empieza a utilizarlo!
+⚒️Abre y ejecuta el proyecto: tan sólo ingresa a: [http://127.0.0.1:5500/index.html](https://myshellhg.github.io/Encriptador-de-texto/) y ¡empieza a utilizarlo!
 
 ## ❤️ Autora
 
