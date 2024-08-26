@@ -349,13 +349,13 @@ Media
 @media(max-width: 720px){
 
     header .logo{
-        width: 100%;
+        width: auto;
         background: var(--White);
         padding: 2px;
     }
 
     .encriptar{
-        width: 90%;
+        width: auto;
         font-size: 24px;
     }
 
@@ -365,7 +365,7 @@ Media
     }
 
     .tarjeta{
-        width: 90%;
+        width: auto;
     }
 
     .copyrigth{
